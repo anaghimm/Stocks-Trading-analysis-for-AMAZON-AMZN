@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-dash==2.9.3
-numpy
-pandas
-scikit_learn
-plotly
-gunicorn
-=======
 dash
 dash-core-components
 dash-html-components
@@ -16,5 +8,3 @@ scikit-learn
 gunicorn
 matplotlib
 requests
-
->>>>>>> d99f6f8313ffd519abeaccda8e30fc2301ed561a
